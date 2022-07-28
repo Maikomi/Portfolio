@@ -293,6 +293,7 @@ scroll{
   }
   header{
     background-size: 66%;
+    background-position: top 0 right 0;
   }
 }
 
